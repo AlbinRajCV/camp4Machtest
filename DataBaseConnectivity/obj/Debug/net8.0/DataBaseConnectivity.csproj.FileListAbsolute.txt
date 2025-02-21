@@ -1,0 +1,13 @@
+D:\demonovember\friday21feb\DataBaseConnectivity\bin\Debug\net8.0\DataBaseConnectivity.deps.json
+D:\demonovember\friday21feb\DataBaseConnectivity\bin\Debug\net8.0\DataBaseConnectivity.dll
+D:\demonovember\friday21feb\DataBaseConnectivity\bin\Debug\net8.0\DataBaseConnectivity.pdb
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\DataBaseConnectivity.csproj.AssemblyReference.cache
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\DataBaseConnectivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\DataBaseConnectivity.AssemblyInfoInputs.cache
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\DataBaseConnectivity.AssemblyInfo.cs
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\DataBaseConnectivity.csproj.CoreCompileInputs.cache
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\DataBaseConnectivity.sourcelink.json
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\DataBaseConnectivity.dll
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\refint\DataBaseConnectivity.dll
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\DataBaseConnectivity.pdb
+D:\demonovember\friday21feb\DataBaseConnectivity\obj\Debug\net8.0\ref\DataBaseConnectivity.dll
